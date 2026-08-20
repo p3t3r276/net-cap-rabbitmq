@@ -1,4 +1,4 @@
-# net9-cap-rabbitmq
+# .NET 9 CAP RabbitMQ
 
 A small demo/learning solution exploring **[DotNetCore.CAP](https://cap.dotnetcore.xyz/)** - an
 event bus and outbox library for distributed transactions and publish/subscribe messaging in .NET.
